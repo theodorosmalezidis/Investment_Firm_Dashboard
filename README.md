@@ -38,7 +38,7 @@ More clients ≠ more value: While client counts rose, the firm is managing less
 
 Focus on portfolio growth: Emphasize upselling and value-based portfolio building to increase AUM per client. Encourage and promote diversification to enhance long-term stability and returns.
 
-Retain and activate: Strengthen retention strategies while encouraging higher activity from existing clients.
+Retain and activate: Strengthen retention strategies while encouraging greater engagement from existing clients. Establish a dynamic marketing team that collaborates closely with investment strategists and portfolio managers to drive client activity.
 
 
 ## 📊 Dashboards
