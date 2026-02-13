@@ -48,8 +48,8 @@ Retain and activate: Strengthen retention strategies while encouraging greater e
 
 - Overview Report
 
-![Overview Report](images/Overview_Dashboard.png)
+![Overview Report](images/overview.png)
 
 - Branches Report
 
-![Branches Report](images/Branches_Dashboard.png)
+![Branches Report](images/branches.png)
