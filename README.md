@@ -7,7 +7,7 @@ This dashboard follows up on my data analytics project for as investment firm (Y
 
 ## Key Takeaways
 
-- The project includes 2 dashboards. The first contains key performance indicators with year-over-year (YoY) changes, tracks quarterly trends in assets under management (AUM), highlights annual client retention rates. The second provides  a detailed list of all branch performance across key metrics.  .
+- The project includes 2 dashboards. The first contains key performance indicators with year-over-year (YoY) changes, tracks quarterly trends in Net Flows and Fee Renenues and highlights cumulative client retention rates. The second provides  a detailed list of all branch performance across key metrics.  
 - Increase in Clients with Active Portfolios (YoY).
 
     Indicates stronger client engagement and interest in investment products despite broader performance metrics.
