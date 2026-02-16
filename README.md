@@ -23,7 +23,9 @@ This dashboard follows up on my data analytics project for as investment firm (Y
 **Forward-Looking Recommendations:**
 
 -Implement upselling strategies to increase the Net Flow per Client.
+
 -Advisors should promote diversified product solutions. This has a two-fold benefit : a) fortifies portfolio's stability for the client b) enhances the firm’s fee-based income.
+
 -Establish a new Recurring Revenue Model through Assets Under Management (AUM) fees, that will create a more predictable revenue stream for the firm.
 
 
